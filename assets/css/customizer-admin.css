@@ -1,0 +1,18 @@
+.bannlermil{
+    background-color: #fbeba4;
+    border: 1px solid #d7c281;
+    border-radius: 3px;
+    color: #958234;
+    margin-right: 10px;
+    padding: 10px;
+    width: calc(100% - 20px);
+    color: #000;
+    font-size: 1rem;
+    font-weight: 700;
+}
+#accordion-section-hill_pro h3{
+    background-color: #fbeba4 !important;
+}
+#accordion-section-hill_doc h3{
+    background-color: #eee !important;
+}
